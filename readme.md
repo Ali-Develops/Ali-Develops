@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdul Rafay
+# 👋 Hi, I'm Ali
 
 🎯 A passionate **Android App Developer** and **AI/ML Enthusiast** working on real-world, speech-enabled, and intelligent mobile applications. I love turning innovative ideas into functional apps using LLMs, TTS/STT, OCR, and prediction systems.
 
@@ -32,16 +32,16 @@
 ✅ **Titanic Survival Predictor** – ML-powered model trained on cleaned data with analysis and visualizations  
 ✅ **LLM-integrated Chat App** – With prompt history, suggestions, and advanced voice/text interface
 
-> 🔗 Explore: [My Portfolio](https://abd-ul-rafay.github.io/portfolio)
+
 
 ---
 
 ## 📫 Get in Touch
 
-📧 Email: [abdulrafaykhatana@gmail.com](mailto:abdulrafaykhatana@gmail.com)  
-💼 LinkedIn: [abdul-rafay-98baa9291](https://www.linkedin.com/in/abdul-rafay-98baa9291)  
-🌐 GitHub: [abd-ul-rafay](https://github.com/abd-ul-rafay)  
-💬 WhatsApp: [Message Me](https://wa.me/100075276885011)
+📧 Email: [ali.works1111@gmail.com](mailto:ali.works1111@gmail.com)  
+💼 LinkedIn: [abdul-rafay-98baa9291](https://www.linkedin.com/in/muhammad-ali)  
+🌐 GitHub: [abd-ul-rafay](https://github.com/ali-develops)  
+
 
 ---
 
