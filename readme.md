@@ -39,8 +39,8 @@
 ## 📫 Get in Touch
 
 📧 Email: [ali.works1111@gmail.com](mailto:ali.works1111@gmail.com)  
-💼 LinkedIn: [abdul-rafay-98baa9291](https://www.linkedin.com/in/muhammad-ali)  
-🌐 GitHub: [abd-ul-rafay](https://github.com/ali-develops)  
+💼 LinkedIn: [ali-develops](https://www.linkedin.com/in/muhammad-ali)  
+🌐 GitHub: [ali-develops](https://github.com/ali-develops)  
 
 
 ---
