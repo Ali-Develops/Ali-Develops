@@ -1,58 +1,66 @@
-# 👋 Hi, I'm Ali
+<!-- PROFILE README START -->
 
-🎯 A passionate **Android App Developer** and **AI/ML Enthusiast** working on real-world, speech-enabled, and intelligent mobile applications. I love turning innovative ideas into functional apps using LLMs, TTS/STT, OCR, and prediction systems.
+<h1 align="center">Hi 👋, I'm Ali</h1>
+
+<p align="center">
+  <a href="mailto:ali.works1111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ali">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ali-develops">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🔧 Tech Stack
+🎯 I'm a passionate **Android App Developer** and **AI/ML Enthusiast** focused on building real-world, speech-enabled, intelligent mobile applications.  
+I turn innovative ideas into production-ready apps using `LLMs`, `TTS/STT`, `OCR`, and predictive systems.
 
-**Languages & Markup:**  
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
 `Java` `Python` `Dart` `C++` `JavaScript` `HTML5` `CSS3` `Markdown`
 
-**Mobile & AI Tools:**  
+### 📱 Mobile & AI Tools  
 `Android Studio` `SpeechRecognizer` `TextToSpeech` `OCR (ML Kit)` `LLMs (Cohere, GPT)`  
 `Room DB` `SharedPreferences` `Internal Storage`
 
-**Web & Backend:**  
+### 🌐 Web & Backend  
 `Firebase` `SQLite` `Flask` `Node.js` `Express` `MongoDB` `MySQL`
 
-**Libraries & Frameworks:**  
+### 🧰 Frameworks & Libraries  
 `Flutter` `React.js` `Tailwind CSS` `Bootstrap`
 
-**Tools & Platforms:**  
+### 🧪 Dev Tools  
 `Git` `GitHub` `Postman` `Figma` `Google Colab`
 
 ---
 
-## 📱 Projects & Highlights
+## 🚀 Featured Projects
 
-✅ **BrainBot** – A real-time speech-to-AI chatbot with OCR, TTS/STT, history, and dynamic suggestions  
-✅ **Custom Android Browser** – Chrome-style browser with tab, history, bookmark management, and modern UI  
-✅ **AI Note-Taking App** – Local storage-based notes app with edit/delete/multi-select features  
-✅ **Titanic Survival Predictor** – ML-powered model trained on cleaned data with analysis and visualizations  
-✅ **LLM-integrated Chat App** – With prompt history, suggestions, and advanced voice/text interface
-
-
-
----
-
-## 📫 Get in Touch
-
-📧 Email: [ali.works1111@gmail.com](mailto:ali.works1111@gmail.com)  
-💼 LinkedIn: [ali-develops](https://www.linkedin.com/in/muhammad-ali)  
-🌐 GitHub: [ali-develops](https://github.com/ali-develops)  
-
+- ✅ **BrainBot** – Real-time AI chatbot with speech recognition, TTS, OCR, history & smart suggestions  
+- ✅ **Custom Android Browser** – Chrome-style browser with tab, history/bookmark management & responsive UI  
+- ✅ **AI Note-Taking App** – Clean notes app with edit/delete & internal storage support  
+- ✅ **Titanic Predictor** – ML model for survival prediction with full data processing & visual analytics  
+- ✅ **LLM-Powered Chat App** – Dynamic voice+text interface using Cohere & local memory for suggestions
 
 ---
 
 ## 💬 Ask Me About
 
-- Android + Java App Development  
-- AI/ML with LLMs, TTS/STT, OCR  
-- Real-time Chatbots and Smart Apps  
-- Firebase, SQLite, SharedPreferences  
-- Git, Debugging, and Deployment
+- 📱 Android + Java App Development  
+- 🤖 AI/ML with LLMs, TTS/STT, OCR  
+- 💬 Real-time Chatbots and Smart Interfaces  
+- 🧩 Firebase, SQLite, SharedPreferences  
+- ⚙️ Debugging, Git, API Integration
 
 ---
 
-### 🚀 Let’s connect and build something smart together!
+<h3 align="center">🚀 Let’s connect and build something smart together!</h3>
+
+<!-- PROFILE README END -->
